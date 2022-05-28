@@ -1,0 +1,1 @@
+for int iee ilength i printf plz input the string
